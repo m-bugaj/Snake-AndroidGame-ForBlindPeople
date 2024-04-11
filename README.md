@@ -18,7 +18,7 @@ Hungry Snake is a simple yet addictive game where players control a snake that g
 
 To install Hungry Snake on your Android device, follow these steps:
 
-1. Download the APK file from the repository's [releases page](link_to_releases).
+1. Download the APK file from the repository's [releases page](https://github.com/m-bugaj/Snake-AndroidGame-ForBlindPeople/releases/download/v1.0.0/HungrySnakeTTS.apk).
 2. Enable installation from unknown sources in your device's settings.
 3. Open the downloaded APK file and follow the on-screen instructions to install the game.
 4. Once installed, you can find Hungry Snake on your device's home screen or app drawer.
